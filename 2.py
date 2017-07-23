@@ -17,9 +17,9 @@
 
 # for i in range(1, 5, 2):
 #     print(i)
-
-
-
+#
+#
+#
 # while True:
 #     x = input("чтоугодно: ")
 #     if x == "xxx":
@@ -36,3 +36,4 @@ while True:
         print('Слишком мало')
         continue
     print('Введённая строка достаточной длины')
+
