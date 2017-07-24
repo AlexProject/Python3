@@ -1,17 +1,17 @@
-# number = 10
-# x = True
-# while x:
-#
-#     key = int(input("введи число: " ))
-#     if key == number:
-#         print("угадала")
-#         break
-#     elif key < number:
-#         print("чуть больше")
-#     else:
-#         print("чуть менше")
-#
-# else: print("Final")
+number = 10
+x = True
+while x:
+
+    key = int(input("введи число: " ))
+    if key == number:
+        print("угадала")
+        break
+    elif key < number:
+        print("чуть больше")
+    else:
+        print("чуть менше")
+
+else: print("Final")
 
 
 
@@ -28,12 +28,15 @@
 # print("finish")
 
 
-while True:
-    s = input('Введите что-нибудь : ')
-    if s == 'выход':
-        break
-    if len(s) < 3:
-        print('Слишком мало')
-        continue
-    print('Введённая строка достаточной длины')
+# while True:
+#     s = input('Введите что-нибудь : ')
+#     if s == 'exit':
+#         print ("exit OK")
+#         break
+#     if len(s) < 3:
+#         print('Слишком мало')
+#         continue
+#     print('Введённая строка достаточной длины')
+
+
 
