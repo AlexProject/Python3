@@ -23,12 +23,23 @@
 # func()
 # print('x po prezjnemy', x)
 
-def mes(massage, times = 1):
-    print(massage * times)
+#
 
-mes('hello')
-mes('world ', 15)
+#def mes(massage, times = 1):
+#     print(massage * times)
+#
+# mes('hello')
+# mes('world ', 15)
 
 
+# Return
+# def max(x, y):
+#     if x > y:
+#         return x
+#     elif x == y:
+#         return "The same"
+#     else:
+#         return y
+# print(max(4,4))
 
 
