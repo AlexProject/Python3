@@ -1,17 +1,17 @@
-number = 10
-x = True
-while x:
-
-    key = int(input("введи число: " ))
-    if key == number:
-        print("угадала")
-        break
-    elif key < number:
-        print("чуть больше")
-    else:
-        print("чуть менше")
-
-else: print("Final")
+# number = 10
+# x = True
+# while x:
+#
+#     key = int(input("введи число: " ))
+#     if key == number:
+#         print("угадала")
+#         break
+#     elif key < number:
+#         print("чуть больше")
+#     else:
+#         print("чуть менше")
+#
+# else: print("Final")
 
 
 
